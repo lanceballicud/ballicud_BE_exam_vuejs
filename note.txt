@@ -1,0 +1,12 @@
+npm install @headlessui/vue
+
+headlessUI
+primticons
+npm install @heroicons/vue
+
+npm install primevue
+npm i tailwindcss-primeui
+npm install -D postcss-import
+npm install @primevue/forms
+npm i zod
+npm install video.js
