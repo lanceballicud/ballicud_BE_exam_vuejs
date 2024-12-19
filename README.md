@@ -1,14 +1,16 @@
-# ballicud-vue
+# BALLICUD_EXAM_VueJS Frontend Exam
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains a Vue JS Frontend part project exam.
 
-## Recommended IDE Setup
+## Libraries and Tool Used
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Tailwind CSS:** For styling.
+- **Heroicons Vue:** For icons.
+- **PrimeVue & HeadlessUI:** UI components.
+- **Zod:** For data validation and schemas.
+- **Axios:** For making HTTP requests.
+- **Video.js:** For embedding and customizing video players.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
@@ -22,8 +24,3 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
